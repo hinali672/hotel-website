@@ -1,0 +1,25 @@
+#image {
+height: 500px;
+width:500px ;    
+}
+
+body {
+ text-align: center;  
+ font-size: 20px; 
+ font-family: cursive;
+ background-color: pink;
+ border: 20px dotted crimson;
+}
+
+li {
+display: inline; 
+padding: 10px; 
+
+}
+
+li:hover{
+font-size: 35px;    
+color:darkred;
+text-shadow: deeppink;
+font-style: inherit;
+}
